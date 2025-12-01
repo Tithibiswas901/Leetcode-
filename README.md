@@ -30,6 +30,7 @@
 | [0053-maximum-subarray](https://github.com/Tithibiswas901/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tithibiswas901/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Tithibiswas901/Leetcode-/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Tithibiswas901/Leetcode-/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Stack
 |  |
 | ------- |
@@ -77,4 +79,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tithibiswas901/Leetcode-/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Tithibiswas901/Leetcode-/tree/master/2141-maximum-running-time-of-n-computers) |
+## Greedy
+|  |
+| ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Tithibiswas901/Leetcode-/tree/master/2141-maximum-running-time-of-n-computers) |
 <!---LeetCode Topics End-->
