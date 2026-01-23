@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Tithibiswas901/Leetcode-/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Tithibiswas901/Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/Tithibiswas901/Leetcode-/tree/master/0231-power-of-two) |
 ## Array
 |  |
@@ -114,5 +115,6 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Tithibiswas901/Leetcode-/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Tithibiswas901/Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tithibiswas901/Leetcode-/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
