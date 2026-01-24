@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Tithibiswas901/Leetcode-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Tithibiswas901/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/Tithibiswas901/Leetcode-/tree/master/0231-power-of-two) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Tithibiswas901/Leetcode-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
@@ -92,11 +93,13 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Tithibiswas901/Leetcode-/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Tithibiswas901/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/Tithibiswas901/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tithibiswas901/Leetcode-/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Tithibiswas901/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tithibiswas901/Leetcode-/tree/master/0138-copy-list-with-random-pointer) |
 ## Binary Search
 |  |
