@@ -44,6 +44,7 @@
 | [0645-set-mismatch](https://github.com/Tithibiswas901/Leetcode-/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/1470-shuffle-the-array) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tithibiswas901/Leetcode-/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1929-concatenation-of-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/1929-concatenation-of-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Tithibiswas901/Leetcode-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tithibiswas901/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -69,6 +70,7 @@
 | [0088-merge-sorted-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Tithibiswas901/Leetcode-/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tithibiswas901/Leetcode-/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Tithibiswas901/Leetcode-/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Stack
 |  |
