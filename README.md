@@ -103,6 +103,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tithibiswas901/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tithibiswas901/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tithibiswas901/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Tithibiswas901/Leetcode-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Tithibiswas901/Leetcode-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Tithibiswas901/Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tithibiswas901/Leetcode-/tree/master/0138-copy-list-with-random-pointer) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Tithibiswas901/Leetcode-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Tithibiswas901/Leetcode-/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Breadth-First Search
 |  |
@@ -171,4 +173,8 @@
 | [0073-set-matrix-zeroes](https://github.com/Tithibiswas901/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0794-valid-tic-tac-toe-state](https://github.com/Tithibiswas901/Leetcode-/tree/master/0794-valid-tic-tac-toe-state) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Tithibiswas901/Leetcode-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
