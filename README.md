@@ -45,6 +45,7 @@
 | [0152-maximum-product-subarray](https://github.com/Tithibiswas901/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0485-max-consecutive-ones](https://github.com/Tithibiswas901/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Tithibiswas901/Leetcode-/tree/master/0645-set-mismatch) |
+| [0794-valid-tic-tac-toe-state](https://github.com/Tithibiswas901/Leetcode-/tree/master/0794-valid-tic-tac-toe-state) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/1470-shuffle-the-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tithibiswas901/Leetcode-/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -168,5 +169,6 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Tithibiswas901/Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0794-valid-tic-tac-toe-state](https://github.com/Tithibiswas901/Leetcode-/tree/master/0794-valid-tic-tac-toe-state) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
