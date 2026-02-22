@@ -89,6 +89,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Tithibiswas901/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tithibiswas901/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tithibiswas901/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Tithibiswas901/Leetcode-/tree/master/0155-min-stack) |
 ## Tree
 |  |
 | ------- |
@@ -187,4 +188,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tithibiswas901/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Tithibiswas901/Leetcode-/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
