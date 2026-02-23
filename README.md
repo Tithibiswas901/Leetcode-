@@ -90,6 +90,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Tithibiswas901/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tithibiswas901/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Tithibiswas901/Leetcode-/tree/master/0155-min-stack) |
+| [1021-remove-outermost-parentheses](https://github.com/Tithibiswas901/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0006-zigzag-conversion](https://github.com/Tithibiswas901/Leetcode-/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Tithibiswas901/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/Tithibiswas901/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Tithibiswas901/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 ## Hash Table
 |  |
 | ------- |
