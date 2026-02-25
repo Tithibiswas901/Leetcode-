@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tithibiswas901/Leetcode-/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Tithibiswas901/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tithibiswas901/Leetcode-/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Tithibiswas901/Leetcode-/tree/master/0053-maximum-subarray) |
@@ -120,6 +121,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Tithibiswas901/Leetcode-/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Tithibiswas901/Leetcode-/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Tithibiswas901/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Tithibiswas901/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Tithibiswas901/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 ## Hash Table
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Tithibiswas901/Leetcode-/tree/master/0155-min-stack) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Tithibiswas901/Leetcode-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
