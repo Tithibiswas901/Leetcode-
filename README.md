@@ -9,6 +9,7 @@
 | [0012-integer-to-roman](https://github.com/Tithibiswas901/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/Tithibiswas901/Leetcode-/tree/master/0231-power-of-two) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Tithibiswas901/Leetcode-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tithibiswas901/Leetcode-/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Divide and Conquer
 |  |
@@ -30,6 +31,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Tithibiswas901/Leetcode-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Tithibiswas901/Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/Tithibiswas901/Leetcode-/tree/master/0231-power-of-two) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/1470-shuffle-the-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tithibiswas901/Leetcode-/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Tithibiswas901/Leetcode-/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -152,6 +155,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tithibiswas901/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -200,4 +204,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tithibiswas901/Leetcode-/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
