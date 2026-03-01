@@ -47,6 +47,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tithibiswas901/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Tithibiswas901/Leetcode-/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Tithibiswas901/Leetcode-/tree/master/0162-find-peak-element) |
 | [0485-max-consecutive-ones](https://github.com/Tithibiswas901/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Tithibiswas901/Leetcode-/tree/master/0645-set-mismatch) |
 | [0794-valid-tic-tac-toe-state](https://github.com/Tithibiswas901/Leetcode-/tree/master/0794-valid-tic-tac-toe-state) |
@@ -140,6 +141,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Tithibiswas901/Leetcode-/tree/master/0162-find-peak-element) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Tithibiswas901/Leetcode-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tithibiswas901/Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
