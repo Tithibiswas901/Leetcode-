@@ -170,6 +170,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Tithibiswas901/Leetcode-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Tithibiswas901/Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tithibiswas901/Leetcode-/tree/master/0138-copy-list-with-random-pointer) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Tithibiswas901/Leetcode-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Tithibiswas901/Leetcode-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Tithibiswas901/Leetcode-/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Breadth-First Search
