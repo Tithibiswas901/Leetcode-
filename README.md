@@ -42,6 +42,7 @@
 | [0035-search-insert-position](https://github.com/Tithibiswas901/Leetcode-/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Tithibiswas901/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Tithibiswas901/Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Tithibiswas901/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tithibiswas901/Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Tithibiswas901/Leetcode-/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Tithibiswas901/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Tithibiswas901/Leetcode-/tree/master/0162-find-peak-element) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Tithibiswas901/Leetcode-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tithibiswas901/Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -190,6 +192,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Tithibiswas901/Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Tithibiswas901/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0794-valid-tic-tac-toe-state](https://github.com/Tithibiswas901/Leetcode-/tree/master/0794-valid-tic-tac-toe-state) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Doubly-Linked List
