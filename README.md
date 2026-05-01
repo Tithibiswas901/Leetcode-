@@ -71,6 +71,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tithibiswas901/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Tithibiswas901/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tithibiswas901/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -79,6 +80,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tithibiswas901/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tithibiswas901/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tithibiswas901/Leetcode-/tree/master/0027-remove-element) |
@@ -136,6 +138,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tithibiswas901/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Tithibiswas901/Leetcode-/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Tithibiswas901/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Tithibiswas901/Leetcode-/tree/master/0014-longest-common-prefix) |
