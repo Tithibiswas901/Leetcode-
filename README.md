@@ -24,6 +24,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Tithibiswas901/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Tithibiswas901/Leetcode-/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/Tithibiswas901/Leetcode-/tree/master/0645-set-mismatch) |
@@ -52,6 +53,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tithibiswas901/Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tithibiswas901/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Tithibiswas901/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Tithibiswas901/Leetcode-/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/0189-rotate-array) |
