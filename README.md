@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/Tithibiswas901/Leetcode-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Tithibiswas901/Leetcode-/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Tithibiswas901/Leetcode-/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Tithibiswas901/Leetcode-/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/0509-fibonacci-number) |
@@ -45,6 +46,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tithibiswas901/Leetcode-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Tithibiswas901/Leetcode-/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Tithibiswas901/Leetcode-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Tithibiswas901/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Tithibiswas901/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Tithibiswas901/Leetcode-/tree/master/0074-search-a-2d-matrix) |
@@ -215,6 +217,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Tithibiswas901/Leetcode-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Tithibiswas901/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Tithibiswas901/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0794-valid-tic-tac-toe-state](https://github.com/Tithibiswas901/Leetcode-/tree/master/0794-valid-tic-tac-toe-state) |
