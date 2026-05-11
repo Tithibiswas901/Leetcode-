@@ -64,6 +64,7 @@
 | [0485-max-consecutive-ones](https://github.com/Tithibiswas901/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Tithibiswas901/Leetcode-/tree/master/0645-set-mismatch) |
 | [0794-valid-tic-tac-toe-state](https://github.com/Tithibiswas901/Leetcode-/tree/master/0794-valid-tic-tac-toe-state) |
+| [0860-lemonade-change](https://github.com/Tithibiswas901/Leetcode-/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/Tithibiswas901/Leetcode-/tree/master/0994-rotting-oranges) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/1470-shuffle-the-array) |
@@ -179,6 +180,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Tithibiswas901/Leetcode-/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Tithibiswas901/Leetcode-/tree/master/0860-lemonade-change) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Tithibiswas901/Leetcode-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tithibiswas901/Leetcode-/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Binary Search Tree
