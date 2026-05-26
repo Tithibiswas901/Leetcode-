@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Tithibiswas901/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Tithibiswas901/Leetcode-/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Tithibiswas901/Leetcode-/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Tithibiswas901/Leetcode-/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/0509-fibonacci-number) |
@@ -36,6 +37,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Tithibiswas901/Leetcode-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Tithibiswas901/Leetcode-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Tithibiswas901/Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Tithibiswas901/Leetcode-/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Tithibiswas901/Leetcode-/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
