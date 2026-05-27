@@ -70,6 +70,7 @@
 | [0506-relative-ranks](https://github.com/Tithibiswas901/Leetcode-/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Tithibiswas901/Leetcode-/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Tithibiswas901/Leetcode-/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/Tithibiswas901/Leetcode-/tree/master/0704-binary-search) |
 | [0794-valid-tic-tac-toe-state](https://github.com/Tithibiswas901/Leetcode-/tree/master/0794-valid-tic-tac-toe-state) |
 | [0860-lemonade-change](https://github.com/Tithibiswas901/Leetcode-/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/Tithibiswas901/Leetcode-/tree/master/0994-rotting-oranges) |
@@ -186,6 +187,7 @@
 | [0035-search-insert-position](https://github.com/Tithibiswas901/Leetcode-/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Tithibiswas901/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Tithibiswas901/Leetcode-/tree/master/0162-find-peak-element) |
+| [0704-binary-search](https://github.com/Tithibiswas901/Leetcode-/tree/master/0704-binary-search) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Tithibiswas901/Leetcode-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tithibiswas901/Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
