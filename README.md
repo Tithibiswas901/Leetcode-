@@ -52,6 +52,7 @@
 | [0041-first-missing-positive](https://github.com/Tithibiswas901/Leetcode-/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Tithibiswas901/Leetcode-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Tithibiswas901/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Tithibiswas901/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Tithibiswas901/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tithibiswas901/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Tithibiswas901/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tithibiswas901/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Tithibiswas901/Leetcode-/tree/master/0152-maximum-product-subarray) |
@@ -195,6 +197,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Tithibiswas901/Leetcode-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Tithibiswas901/Leetcode-/tree/master/0561-array-partition) |
