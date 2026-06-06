@@ -9,6 +9,7 @@
 | [0012-integer-to-roman](https://github.com/Tithibiswas901/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Tithibiswas901/Leetcode-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Tithibiswas901/Leetcode-/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Tithibiswas901/Leetcode-/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Tithibiswas901/Leetcode-/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/0509-fibonacci-number) |
@@ -99,6 +100,7 @@
 | [0045-jump-game-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Tithibiswas901/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Tithibiswas901/Leetcode-/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tithibiswas901/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Tithibiswas901/Leetcode-/tree/master/0152-maximum-product-subarray) |
@@ -309,4 +311,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Tithibiswas901/Leetcode-/tree/master/0239-sliding-window-maximum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Tithibiswas901/Leetcode-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
