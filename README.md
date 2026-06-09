@@ -184,6 +184,7 @@
 | [0006-zigzag-conversion](https://github.com/Tithibiswas901/Leetcode-/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Tithibiswas901/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Tithibiswas901/Leetcode-/tree/master/0014-longest-common-prefix) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Tithibiswas901/Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Tithibiswas901/Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Tithibiswas901/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Tithibiswas901/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
@@ -194,6 +195,7 @@
 | [0001-two-sum](https://github.com/Tithibiswas901/Leetcode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tithibiswas901/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Tithibiswas901/Leetcode-/tree/master/0012-integer-to-roman) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Tithibiswas901/Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Tithibiswas901/Leetcode-/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Tithibiswas901/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tithibiswas901/Leetcode-/tree/master/0138-copy-list-with-random-pointer) |
@@ -307,6 +309,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tithibiswas901/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Tithibiswas901/Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0239-sliding-window-maximum](https://github.com/Tithibiswas901/Leetcode-/tree/master/0239-sliding-window-maximum) |
 ## Backtracking
 |  |
