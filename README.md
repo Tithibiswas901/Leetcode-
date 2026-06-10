@@ -168,6 +168,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Tithibiswas901/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Tithibiswas901/Leetcode-/tree/master/0207-course-schedule) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Tithibiswas901/Leetcode-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0547-number-of-provinces](https://github.com/Tithibiswas901/Leetcode-/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -252,6 +253,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tithibiswas901/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Tithibiswas901/Leetcode-/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/Tithibiswas901/Leetcode-/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Tithibiswas901/Leetcode-/tree/master/0994-rotting-oranges) |
 ## Counting Sort
 |  |
@@ -327,8 +329,13 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Tithibiswas901/Leetcode-/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/Tithibiswas901/Leetcode-/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Tithibiswas901/Leetcode-/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Tithibiswas901/Leetcode-/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
