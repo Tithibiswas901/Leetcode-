@@ -24,6 +24,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tithibiswas901/Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/Tithibiswas901/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [1763-longest-nice-substring](https://github.com/Tithibiswas901/Leetcode-/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bit Manipulation
 |  |
@@ -32,6 +33,7 @@
 | [0191-number-of-1-bits](https://github.com/Tithibiswas901/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Tithibiswas901/Leetcode-/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/Tithibiswas901/Leetcode-/tree/master/0645-set-mismatch) |
+| [1763-longest-nice-substring](https://github.com/Tithibiswas901/Leetcode-/tree/master/1763-longest-nice-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Tithibiswas901/Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Tithibiswas901/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Tithibiswas901/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
+| [1763-longest-nice-substring](https://github.com/Tithibiswas901/Leetcode-/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
 |  |
@@ -208,6 +211,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Tithibiswas901/Leetcode-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Tithibiswas901/Leetcode-/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1763-longest-nice-substring](https://github.com/Tithibiswas901/Leetcode-/tree/master/1763-longest-nice-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -318,6 +322,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tithibiswas901/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tithibiswas901/Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0239-sliding-window-maximum](https://github.com/Tithibiswas901/Leetcode-/tree/master/0239-sliding-window-maximum) |
+| [1763-longest-nice-substring](https://github.com/Tithibiswas901/Leetcode-/tree/master/1763-longest-nice-substring) |
 ## Backtracking
 |  |
 | ------- |
