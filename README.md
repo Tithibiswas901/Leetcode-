@@ -63,6 +63,7 @@
 | [0053-maximum-subarray](https://github.com/Tithibiswas901/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0063-unique-paths-ii) |
+| [0068-text-justification](https://github.com/Tithibiswas901/Leetcode-/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Tithibiswas901/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Tithibiswas901/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Tithibiswas901/Leetcode-/tree/master/0075-sort-colors) |
@@ -204,6 +205,7 @@
 | [0020-valid-parentheses](https://github.com/Tithibiswas901/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tithibiswas901/Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Tithibiswas901/Leetcode-/tree/master/0032-longest-valid-parentheses) |
+| [0068-text-justification](https://github.com/Tithibiswas901/Leetcode-/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/Tithibiswas901/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Tithibiswas901/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1763-longest-nice-substring](https://github.com/Tithibiswas901/Leetcode-/tree/master/1763-longest-nice-substring) |
@@ -252,6 +254,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Tithibiswas901/Leetcode-/tree/master/0068-text-justification) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
