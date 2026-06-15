@@ -67,6 +67,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Tithibiswas901/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Tithibiswas901/Leetcode-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Tithibiswas901/Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tithibiswas901/Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tithibiswas901/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -109,6 +110,7 @@
 | [0055-jump-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Tithibiswas901/Leetcode-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/Tithibiswas901/Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tithibiswas901/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Tithibiswas901/Leetcode-/tree/master/0152-maximum-product-subarray) |
@@ -156,6 +158,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tithibiswas901/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Tithibiswas901/Leetcode-/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Tithibiswas901/Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tithibiswas901/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tithibiswas901/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tithibiswas901/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -287,6 +290,7 @@
 | [0063-unique-paths-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Tithibiswas901/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Tithibiswas901/Leetcode-/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Tithibiswas901/Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0794-valid-tic-tac-toe-state](https://github.com/Tithibiswas901/Leetcode-/tree/master/0794-valid-tic-tac-toe-state) |
 | [0994-rotting-oranges](https://github.com/Tithibiswas901/Leetcode-/tree/master/0994-rotting-oranges) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -362,4 +366,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Tithibiswas901/Leetcode-/tree/master/0547-number-of-provinces) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Tithibiswas901/Leetcode-/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
