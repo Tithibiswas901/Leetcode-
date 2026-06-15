@@ -152,6 +152,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Tithibiswas901/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Tithibiswas901/Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tithibiswas901/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tithibiswas901/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -195,6 +196,7 @@
 | [0006-zigzag-conversion](https://github.com/Tithibiswas901/Leetcode-/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Tithibiswas901/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Tithibiswas901/Leetcode-/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Tithibiswas901/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tithibiswas901/Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Tithibiswas901/Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Tithibiswas901/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
