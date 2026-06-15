@@ -54,6 +54,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tithibiswas901/Leetcode-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Tithibiswas901/Leetcode-/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Tithibiswas901/Leetcode-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Tithibiswas901/Leetcode-/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Tithibiswas901/Leetcode-/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0045-jump-game-ii) |
@@ -210,6 +211,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tithibiswas901/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Tithibiswas901/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tithibiswas901/Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Tithibiswas901/Leetcode-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Tithibiswas901/Leetcode-/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Tithibiswas901/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tithibiswas901/Leetcode-/tree/master/0138-copy-list-with-random-pointer) |
@@ -279,6 +281,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Tithibiswas901/Leetcode-/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Tithibiswas901/Leetcode-/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Tithibiswas901/Leetcode-/tree/master/0073-set-matrix-zeroes) |
@@ -334,6 +337,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Tithibiswas901/Leetcode-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Tithibiswas901/Leetcode-/tree/master/0039-combination-sum) |
 ## Monotonic Queue
 |  |
