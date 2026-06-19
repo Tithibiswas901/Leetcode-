@@ -148,6 +148,7 @@
 | [0075-sort-colors](https://github.com/Tithibiswas901/Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Tithibiswas901/Leetcode-/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Tithibiswas901/Leetcode-/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Tithibiswas901/Leetcode-/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Tithibiswas901/Leetcode-/tree/master/0561-array-partition) |
@@ -213,6 +214,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Tithibiswas901/Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/Tithibiswas901/Leetcode-/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/Tithibiswas901/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Tithibiswas901/Leetcode-/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/Tithibiswas901/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1763-longest-nice-substring](https://github.com/Tithibiswas901/Leetcode-/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -228,6 +230,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Tithibiswas901/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tithibiswas901/Leetcode-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Tithibiswas901/Leetcode-/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/Tithibiswas901/Leetcode-/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Tithibiswas901/Leetcode-/tree/master/0645-set-mismatch) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Tithibiswas901/Leetcode-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Tithibiswas901/Leetcode-/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
