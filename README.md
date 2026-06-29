@@ -100,6 +100,7 @@
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tithibiswas901/Leetcode-/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tithibiswas901/Leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tithibiswas901/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/1929-concatenation-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -156,6 +157,7 @@
 | [0645-set-mismatch](https://github.com/Tithibiswas901/Leetcode-/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tithibiswas901/Leetcode-/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tithibiswas901/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Tithibiswas901/Leetcode-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tithibiswas901/Leetcode-/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -272,6 +274,7 @@
 | [0455-assign-cookies](https://github.com/Tithibiswas901/Leetcode-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Tithibiswas901/Leetcode-/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Tithibiswas901/Leetcode-/tree/master/0860-lemonade-change) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tithibiswas901/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Tithibiswas901/Leetcode-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tithibiswas901/Leetcode-/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Binary Search Tree
