@@ -17,6 +17,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Tithibiswas901/Leetcode-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tithibiswas901/Leetcode-/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tithibiswas901/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -237,6 +238,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Tithibiswas901/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1763-longest-nice-substring](https://github.com/Tithibiswas901/Leetcode-/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tithibiswas901/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +279,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tithibiswas901/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Tithibiswas901/Leetcode-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tithibiswas901/Leetcode-/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tithibiswas901/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search Tree
 |  |
 | ------- |
