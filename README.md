@@ -163,6 +163,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/Tithibiswas901/Leetcode-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tithibiswas901/Leetcode-/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tithibiswas901/Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -239,6 +240,7 @@
 | [1763-longest-nice-substring](https://github.com/Tithibiswas901/Leetcode-/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tithibiswas901/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -258,6 +260,7 @@
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Tithibiswas901/Leetcode-/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1763-longest-nice-substring](https://github.com/Tithibiswas901/Leetcode-/tree/master/1763-longest-nice-substring) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -280,6 +283,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/Tithibiswas901/Leetcode-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tithibiswas901/Leetcode-/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tithibiswas901/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -328,6 +332,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/Tithibiswas901/Leetcode-/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
