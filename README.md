@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/Tithibiswas901/Leetcode-/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Tithibiswas901/Leetcode-/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Tithibiswas901/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/0509-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Tithibiswas901/Leetcode-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -44,6 +45,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Tithibiswas901/Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Tithibiswas901/Leetcode-/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Tithibiswas901/Leetcode-/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Tithibiswas901/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Array
@@ -88,6 +90,7 @@
 | [0283-move-zeroes](https://github.com/Tithibiswas901/Leetcode-/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Tithibiswas901/Leetcode-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Tithibiswas901/Leetcode-/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Tithibiswas901/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/Tithibiswas901/Leetcode-/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Tithibiswas901/Leetcode-/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Tithibiswas901/Leetcode-/tree/master/0645-set-mismatch) |
@@ -123,6 +126,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Tithibiswas901/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0213-house-robber-ii) |
+| [0486-predict-the-winner](https://github.com/Tithibiswas901/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -433,4 +437,8 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Tithibiswas901/Leetcode-/tree/master/0085-maximal-rectangle) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Tithibiswas901/Leetcode-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
