@@ -15,6 +15,7 @@
 | [0231-power-of-two](https://github.com/Tithibiswas901/Leetcode-/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Tithibiswas901/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/0877-stone-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Tithibiswas901/Leetcode-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tithibiswas901/Leetcode-/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -98,6 +99,7 @@
 | [0733-flood-fill](https://github.com/Tithibiswas901/Leetcode-/tree/master/0733-flood-fill) |
 | [0794-valid-tic-tac-toe-state](https://github.com/Tithibiswas901/Leetcode-/tree/master/0794-valid-tic-tac-toe-state) |
 | [0860-lemonade-change](https://github.com/Tithibiswas901/Leetcode-/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Tithibiswas901/Leetcode-/tree/master/0994-rotting-oranges) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/1470-shuffle-the-array) |
@@ -128,6 +130,7 @@
 | [0213-house-robber-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/Tithibiswas901/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -441,4 +444,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Tithibiswas901/Leetcode-/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
