@@ -95,6 +95,7 @@
 | [0486-predict-the-winner](https://github.com/Tithibiswas901/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/Tithibiswas901/Leetcode-/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Tithibiswas901/Leetcode-/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Tithibiswas901/Leetcode-/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Tithibiswas901/Leetcode-/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Tithibiswas901/Leetcode-/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Tithibiswas901/Leetcode-/tree/master/0733-flood-fill) |
@@ -288,6 +289,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tithibiswas901/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Tithibiswas901/Leetcode-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Tithibiswas901/Leetcode-/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Tithibiswas901/Leetcode-/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Tithibiswas901/Leetcode-/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tithibiswas901/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Tithibiswas901/Leetcode-/tree/master/2141-maximum-running-time-of-n-computers) |
