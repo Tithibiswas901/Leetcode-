@@ -17,6 +17,7 @@
 | [0509-fibonacci-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/0877-stone-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Tithibiswas901/Leetcode-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1406-stone-game-iii](https://github.com/Tithibiswas901/Leetcode-/tree/master/1406-stone-game-iii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tithibiswas901/Leetcode-/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tithibiswas901/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -102,6 +103,7 @@
 | [0877-stone-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Tithibiswas901/Leetcode-/tree/master/0994-rotting-oranges) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1406-stone-game-iii](https://github.com/Tithibiswas901/Leetcode-/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/Tithibiswas901/Leetcode-/tree/master/1470-shuffle-the-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tithibiswas901/Leetcode-/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tithibiswas901/Leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -131,6 +133,7 @@
 | [0486-predict-the-winner](https://github.com/Tithibiswas901/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Tithibiswas901/Leetcode-/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Tithibiswas901/Leetcode-/tree/master/1406-stone-game-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -445,4 +448,13 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Tithibiswas901/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Tithibiswas901/Leetcode-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Tithibiswas901/Leetcode-/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Tithibiswas901/Leetcode-/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Tithibiswas901/Leetcode-/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
